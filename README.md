@@ -59,5 +59,7 @@ width = "30px"
 style = "padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 
+---
+
 ### Projetos
 https://triagem-digital-hiv-aids-572183317635.us-east1.run.app
