@@ -14,3 +14,12 @@ Tenho facilidade e forte interesse em aprender novos conceitos e tecnologias, bu
 Estou em transição de carreira, unindo minha experiência prévia em atendimento com minhas novas competências técnicas. 
 Meu objetivo é seguir evoluindo como profissional na área de IA, aplicando tanto habilidades técnicas quanto interpessoais. 
 Estou aberto a oportunidades que me permitam crescer e contribuir com projetos inovadores.
+## Linguagens e tecnologias/ Projetos
+
+<img 
+align= left
+alt = "DBeaver"
+title = "DBeaver"
+width = "30px" 
+style = "padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
