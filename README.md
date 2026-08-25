@@ -14,7 +14,7 @@ Tenho facilidade e forte interesse em aprender novos conceitos e tecnologias, bu
 Estou em transição de carreira, unindo minha experiência prévia em atendimento com minhas novas competências técnicas. 
 Meu objetivo é seguir evoluindo como profissional na área de IA, aplicando tanto habilidades técnicas quanto interpessoais. 
 Estou aberto a oportunidades que me permitam crescer e contribuir com projetos inovadores.
-## Linguagens e tecnologias/ Projetos
+## Linguagens e tecnologias
 
 <img 
 align= left
