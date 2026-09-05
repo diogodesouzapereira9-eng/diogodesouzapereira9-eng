@@ -58,6 +58,24 @@ title = "Jupyter"
 width = "30px" 
 style = "padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+<img 
+align= left
+alt = "Jupyter"
+title = "Jupyter"
+width = "30px" 
+style = "padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+
+<img 
+align= left
+alt = "mongo"
+title = "mongo"
+width = "30px" 
+style = "padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+
+          
+
 
 ---
 
